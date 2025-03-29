@@ -15,9 +15,6 @@
 ✔️ Asynchronous events handling <br />
 ✔️ Performance improvement with lazy loading <br />
 
-## Website 💻
-https://the-fit-club.pages.dev/
-
 ## Technologies used 🛠️
 **Design**: *Css & Styled Components*<br />
 **Backend**: *NodeJs* <br />
