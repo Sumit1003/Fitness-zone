@@ -2,15 +2,7 @@
 
 ## Gym Website 🎯
 
-React responsive Gym Website using ReactJs 
 
-![Language count](https://img.shields.io/github/languages/count/letnagao/gym-website?color=green)
-![Top language](https://img.shields.io/github/languages/top/letnagao/gym-website?color=ff69b4)
-![Repo size](https://img.shields.io/github/repo-size/letnagao/gym-website?color=yellow)
-![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/gym-website?color=blue)
-![Latest commit](https://img.shields.io/github/last-commit/letnagao/gym-website?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/gym-website?logo=GitHub)](https://github.com/letnagao/gym-website/watchers)
-![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
